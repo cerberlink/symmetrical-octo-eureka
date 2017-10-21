@@ -1,6 +1,4 @@
-//Developer: Carlos Guerrero
-// SID: 109429734
-//COMP 182
+//Developer: 
 //10-18-17
 package project3;
 
